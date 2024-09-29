@@ -38,9 +38,17 @@
 
 ### C++程序
 
+C++程序路径：sudoku
+
+[https://github.com/functionmain/OOP-homwork1/tree/main/sudoku](https://github.com/functionmain/OOP-homwork1/tree/main/sudoku)
+
 ![c_pp](images/c_pp.png)
 
 ## python程序
+
+Python程序路径：Sudoku.py
+
+[https://github.com/functionmain/OOP-homwork1/blob/main/Sudoku.py](https://github.com/functionmain/OOP-homwork1/blob/main/Sudoku.py)
 
 ![python](images/python.png)
 
