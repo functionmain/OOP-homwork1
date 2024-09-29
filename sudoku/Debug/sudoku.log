@@ -1,0 +1,11 @@
+﻿  sudoku.cpp
+C:\Users\fangshimian\Desktop\研一\面向对象\homework1\sudoku\sudoku.cpp(26,25): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+C:\Users\fangshimian\Desktop\研一\面向对象\homework1\sudoku\sudoku.cpp(27,24): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+C:\Users\fangshimian\Desktop\研一\面向对象\homework1\sudoku\sudoku.cpp(41,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fangshimian\Desktop\研一\面向对象\homework1\sudoku\sudoku.cpp(52,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fangshimian\Desktop\研一\面向对象\homework1\sudoku\sudoku.cpp(53,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fangshimian\Desktop\研一\面向对象\homework1\sudoku\sudoku.cpp(62,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fangshimian\Desktop\研一\面向对象\homework1\sudoku\sudoku.cpp(63,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fangshimian\Desktop\研一\面向对象\homework1\sudoku\sudoku.cpp(95,27): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fangshimian\Desktop\研一\面向对象\homework1\sudoku\sudoku.cpp(96,31): warning C4018: “<”: 有符号/无符号不匹配
+  sudoku.vcxproj -> C:\Users\fangshimian\Desktop\研一\面向对象\homework1\sudoku\Debug\sudoku.exe
