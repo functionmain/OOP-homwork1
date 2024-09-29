@@ -8,13 +8,13 @@
 
 按照自己喜好，分别用两种语言，一种静态类型（C++、Java、……），一种动态类型（Python、JavaScript、……），按设计实现Sundoku模块（业务代码、测试代码、文档）。
 
-![design](images\shili.png)
+![design](images/shili.png)
 
 
 
 ### 架构设计
 
-![design](images\design.png)
+![design](images/design.png)
 
 ### 要求
 
@@ -38,9 +38,9 @@
 
 ### C++程序
 
-![c_pp](images\c_pp.png)
+![c_pp](images/c_pp.png)
 
 ## python程序
 
-![python](images\python.png)
+![python](images/python.png)
 
